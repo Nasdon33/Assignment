@@ -34,7 +34,7 @@ app.post('/assignment', function(req,res){
             + "ASSIGNMENT ID: " + assignmentID + ". \n "
             + "WORKER ID: " + workerID + ". \n "
             + "ASSIGNMENT RESULT: " + assignmentResult + ".");
-    db.push("/test[]", {task: taskID, assignments: [{id: assignmentID, worker: workerID, result: assignmentResult}]}, true);
+    db.push("/deliveries[]", {taskID: taskID, assignmentID: assignmentID, workerID: workerID, assignmentResult: assignmentResult}, true);
     console.log("Risultati pushati?");
 });
 
