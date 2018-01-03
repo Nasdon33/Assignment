@@ -1,45 +1,39 @@
 {
-    "tasks": 
+    "deliveries": 
     [
         {
-            "task": "Calculator Front-End",
-            "assignments":
-            [
-                {
-                    "id": "3",
-                    "worker": "168345",
-                    "result": {
-
-                    }
-                }
-            ]
+            "taskID": "Calculator Front-End",
+            "assignmentID": "3",
+            "workerID": "168345",
+            "assignmentResult": {
+                "project": 24,
+                "theory": 19,
+                "practice": 25
+            }
         },
         {
-            "task": "Calculator Back-End",
-            "assignments": 
-            [
-                {
-                    "id": "1",
-                    "worker": "160468",
-                    "result": {
-                    
-                    }
-                },
-                {
-                    "id": "4",
-                    "worker": "173560",
-                    "result": {
-                    
-                    }
-                },
-                {
-                    "id": "45",
-                    "worker": "180245",
-                    "result": {
+            "taskID": "Calculator Back-End",
+            "assignmentID": "1",
+            "workerID": "160468",
+            "assignmentResult": {
                 
-                    }
-                }
-            ]
+            }
+        },
+        {
+            "taskID": "Calculator Back-End",
+            "assignmentID": "4",
+            "workerID": "173560",
+            "assignmentResult": {
+            
+            }
+        },
+        {
+            "taskID": "Calculator Back-End",
+            "assignmentID": "45",
+            "workerID": "180245",
+            "assignmentResult": {
+            
+            }
         }
     ]
 }
