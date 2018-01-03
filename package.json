@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Nasdon33/Assignment#readme",
   "dependencies": {
+    "jade": "^1.11.0",
     "node-json-db": "^0.7.3"
   }
 }
