@@ -62,10 +62,11 @@ app.route('/assignment/:id')
 
 app.get('/',function (req,res){
    res.render('index.jade');
-})
+});
+
 // Handle 404 
 app.use(function(req, res) { 
-    res.status(400); 
+    res.status(404); 
    res.render('404.jade', {title: '404: File Not Found'}); 
 }); 
 
