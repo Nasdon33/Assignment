@@ -1,0 +1,45 @@
+{
+    "tasks": 
+    [
+        {
+            "task": "Calculator Front-End",
+            "assignments":
+            [
+                {
+                    "id": "3",
+                    "worker": "168345",
+                    "result": {
+
+                    }
+                }
+            ]
+        },
+        {
+            "task": "Calculator Back-End",
+            "assignments": 
+            [
+                {
+                    "id": "1",
+                    "worker": "160468",
+                    "result": {
+                    
+                    }
+                },
+                {
+                    "id": "4",
+                    "worker": "173560",
+                    "result": {
+                    
+                    }
+                },
+                {
+                    "id": "45",
+                    "worker": "180245",
+                    "result": {
+                
+                    }
+                }
+            ]
+        }
+    ]
+}

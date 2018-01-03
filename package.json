@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Nasdon33/Assignment/issues"
   },
-  "homepage": "https://github.com/Nasdon33/Assignment#readme"
+  "homepage": "https://github.com/Nasdon33/Assignment#readme",
+  "dependencies": {
+    "node-json-db": "^0.7.3"
+  }
 }
