@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Nasdon33/Assignment#readme",
   "dependencies": {
+    "consolidate": "^0.15.0",
     "express": "^4.16.2",
     "jade": "^1.11.0",
     "multer": "^1.3.0",
